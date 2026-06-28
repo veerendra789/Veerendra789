@@ -203,6 +203,19 @@ Hi 👋, I'm <span style="color:#00BFFF;">Nellipudi Satya Veerendra</span>
 <!-- ======================================================== -->
 <!--                    PART - 2                              -->
 <!-- ======================================================== -->
+# 🧠 LeetCode Profile
+
+<p align="center">
+
+<a href="https://leetcode.com/u/veerendra_nellipudi/">
+
+<img src="https://leetcard.jacoblin.cool/veerendra_nellipudi?theme=dark&font=Karma&ext=heatmap"/>
+
+</a>
+
+</p>
+
+---
 
 # 📊 GitHub Analytics
 
@@ -246,19 +259,6 @@ Hi 👋, I'm <span style="color:#00BFFF;">Nellipudi Satya Veerendra</span>
 
 ---
 
-# 🧠 LeetCode Profile
-
-<p align="center">
-
-<a href="https://leetcode.com/u/veerendra_nellipudi/">
-
-<img src="https://leetcard.jacoblin.cool/veerendra_nellipudi?theme=dark&font=Karma&ext=heatmap"/>
-
-</a>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
