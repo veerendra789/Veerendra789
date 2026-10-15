@@ -637,42 +637,6 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 # 🐍 Contribution Snake
 
-> **Create the following GitHub Action file to enable the snake animation:**
-
-**`.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: veerendra789
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After enabling the workflow, add this image to your README:
-
 
 <p align="center">
   <img
