@@ -673,15 +673,14 @@ jobs:
 
 After enabling the workflow, add this image to your README:
 
-```html
+
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/veerendra789/veerendra789/output/github-contribution-grid-snake.svg"/>
-
+  <img
+    src="https://raw.githubusercontent.com/veerendra789/veerendra789/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
-```
 
----
 
 # 👨‍💻 Visitor Counter
 
